@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/illest_y.g" target="blank"><img src="https://img.shields.io/twitter/follow/illest_y.g?logo=twitter&style=for-the-badge" alt="illest_y.g" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin, Flutter**
 
-- 💬 Ask me about **Python, Python Django,**
+- 💬 Ask me about **Python, Python Django, HTML5, CSS, JavaScript**
 
 - 📫 How to reach me **gideonyuri15@gmail.com**
 
